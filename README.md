@@ -1,0 +1,3 @@
+-  Hi, I’m @Trash-Backet
+-  I’m interested in computer science , system administration , gamedev & and more
+-  I’m currently learning C++ , C# , Java , Python
